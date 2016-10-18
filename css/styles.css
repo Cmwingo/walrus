@@ -1,0 +1,21 @@
+#initially-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable :hover {
+  text-decoration: underline;;
+}
+/*
+#clickOut {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickOut:hover {
+  text-decoration: underline;;
+}*/
